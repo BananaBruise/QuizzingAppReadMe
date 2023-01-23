@@ -1,5 +1,8 @@
 # QuizzingApp
 
+## Trying the app
+Use this [invite link](https://appdistribution.firebase.dev/i/425ee29108df6e66) to grab the latest build of this app
+
 ## Summary
 Using Android Studio and Java, we (Abhinav Bhashyam and Han Tu) have created an interactive quizzing app.
 
